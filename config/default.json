@@ -1,6 +1,6 @@
 {
   "port": 5000,
   "jwtSecret": "javascript react express nodejs wow",
-  "mongoUri": "mongodb+srv://egatsak:9lff15k8gUJLJoOq@cluster0.xrwhz.mongodb.net/?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv://egatsak:9lff15k8gUJLJoOq@cluster0.xrwhz.mongodb.net/test?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
