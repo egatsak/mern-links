@@ -1,7 +1,7 @@
 {
-    "port": 5000,
+    "port": 80,
     "jwtSecret": "javascript react express nodejs wow",
     "mongoUri": "mongodb+srv://egatsak:9lff15k8gUJLJoOq@cluster0.xrwhz.mongodb.net/?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://mern-links-1.herokuapp.com/"
   }
   
